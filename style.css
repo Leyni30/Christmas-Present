@@ -76,13 +76,15 @@ body {
 }
 
 .promo p {
-    font-size: 34px;
+    font-size: 37px;
     margin: 0;
+    text-shadow: 0px 0px 8px rgba(255, 65, 185, 1);
 }
 
 .promo h2 {
     font-size: 40px;
     margin: 0;
+    text-shadow: 0px 0px 8px rgba(255, 65, 185, 1);
 }
 
 .present:hover .lid {
